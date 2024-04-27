@@ -26,3 +26,4 @@
 /Users/taritibor/Documents/Suli/2. Szemeszter/Dolgozat/Dolgozat/obj/Debug/net8.0/Dolgozat.pdb
 /Users/taritibor/Documents/Suli/2. Szemeszter/Dolgozat/Dolgozat/obj/Debug/net8.0/Dolgozat.genruntimeconfig.cache
 /Users/taritibor/Documents/Suli/2. Szemeszter/Dolgozat/Dolgozat/obj/Debug/net8.0/ref/Dolgozat.dll
+/Users/taritibor/Documents/Suli/2. Szemeszter/Dolgozat/Dolgozat/obj/Debug/net8.0/Dolgozat.sourcelink.json
