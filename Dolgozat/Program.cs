@@ -284,6 +284,5 @@ class Program
                 Console.WriteLine("Sajnos ilyen opció nincs!");
                 break;
         }
-
     }
 }
